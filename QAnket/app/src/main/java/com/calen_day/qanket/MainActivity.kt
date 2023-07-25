@@ -46,8 +46,8 @@ import kotlin.collections.ArrayList
 
 
 class MainActivity : AppCompatActivity() {
-    //var global_url = "http://143.110.224.27:2135/"
-    var global_url = "http://10.68.2.91:8005/";
+    var global_url = "http://143.110.224.27:2135/"
+    //var global_url = "http://10.68.2.91:8005/";
 
     var AppVersion="1";
     var choosenPacient=User();
